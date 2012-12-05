@@ -16,6 +16,7 @@ fixed_unavail_dec2011.csv
 	- usf_type - varchar(13) “ROR”, “PC”, or “UNCLASSIFIED” for all records
 
 Details: 
-	- Price Cap Count (PC) :  208,818
-	- ROR Count (ROR):  806,554
-	- Unclassified Count (UNCLASSIFIED):   659
+--------
+- Price Cap Count (PC) :  208,818
+- ROR Count (ROR):  806,554
+- Unclassified Count (UNCLASSIFIED):   659
