@@ -7,7 +7,7 @@ Files:
 ------
 fixed_unavail_dec2011.csv 
 - download link - [https://github.com/fccdata/unserved_fixed_broadband/archive/master.zip](https://github.com/fccdata/unserved_fixed_broadband/archive/master.zip)
-- number of records - 1,016,031 (+ header)
+- number of records - 1,030,072 (+ header)
 - description - includes all 2012 US Census Blocks which are unserved or partially served as described in the National Broadband Map as of December 31, 2011; one row per block
 - columns (fields) 
   - block_fips     varchar(15)
@@ -17,6 +17,6 @@ fixed_unavail_dec2011.csv
 
 Details: 
 --------
-- Price Cap Count (PC) :  208,818
-- ROR Count (ROR):  806,554
-- Unclassified Count (UNCLASSIFIED):   659
+- Price Cap Count (PC) :  830,093
+- ROR Count (ROR):  199,052
+- Unclassified Count (UNCLASSIFIED):   927
