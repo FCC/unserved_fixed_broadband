@@ -24,16 +24,7 @@ fixed_unavail_dec2011.zip - the shapefile of blocks dissolved by state and unser
 
 Methods:
 --------
-The domain of technologies used to prepare this map are:  FIXED BROADBAND TECHNOLOGIES:
-Code 	Description
-10	Asymmetric DSL
-20	Symmetric DSL
-30      Other Copper Wireline
-40      Cable Modem - DOCSIS 3.0
-41	Cable Modem - Other
-70	Terrestrial Fixed Wireless - Unlicensed
-71	Terrestrial Fixed Wireless - licensed
-90	Electric Power Line
+The domain of technologies used to prepare this map are:  FIXED BROADBAND TECHNOLOGIES; (10) Asymmetric DSL; (20) Symmetric DSL; (30) Other Copper Wireline; (40) Cable Modem - DOCSIS 3.0; (41)Cable Modem - Other; (70) Terrestrial Fixed Wireless - Unlicensed; (71) Terrestrial Fixed Wireless - licensed; (90) Electric Power Line
 
 The Partially Unavailable Areas (Light Orange) are those Census blocks with some housing units (e.g. > 0) AND have one of the two followingconditions:
   -  Provider(s) offer wireless broadband with speed at least 3mbps/768kbps, but the Wireless footprint covers between 0.41% and 99.4% of the census block OR;
